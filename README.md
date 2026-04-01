@@ -93,8 +93,6 @@ With symmetrized adjacency $\overline{A} = A + A^T$:
 
 ![Unrolling architecture](Images/Unrolling.png)
 
-Vector version (PDF): [Images/Unrolling.pdf](Images/Unrolling.pdf)
-
 ## Environment and Dependencies
 
 The notebook imports the following Python packages:
